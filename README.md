@@ -1,2 +1,2 @@
 # contactsdiary
-A very basic console contact book in python
+A very basic console based contact book in python
