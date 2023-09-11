@@ -1,2 +1,2 @@
-# contactsdiary
-A very basic console based contact book in python
+# student management system
+A student management systen in Django 4
