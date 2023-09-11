@@ -1,2 +1,2 @@
 # student management system
-A student management systen in Django 4
+A student management system in Django 4
